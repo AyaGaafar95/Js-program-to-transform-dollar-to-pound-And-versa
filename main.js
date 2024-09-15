@@ -10,4 +10,3 @@ pound.onkeyup = function(){
 }
 
 
-// it's a small js program to prctice on events in js ===> it's about trasform eg pound to dollar and dollar to eg pound
